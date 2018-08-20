@@ -1,3 +1,2 @@
 # git-github
-this my first learning tool
-edthjmnj0--0fgdgh
+this my first learning
